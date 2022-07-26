@@ -8,5 +8,5 @@
 
 
 - 📫 How to reach me ...
-- **Gmail**  ==rovicangelolanuza9@gamil.com==
+- **Gmail**  <mark>rovicangelolanuza9@gmail.com</mark>
 
