@@ -1,7 +1,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&vCenter=true&width=435&lines=Hello+Fellow+Programmers;I'm+RovicAngelo+Lanuza;Aspiring+Full+Stack+Developer" alt="Typing SVG" /></a></p>
 
 - 🎓 Currently studying BS Information Technology in [Sorsogon State University](https://sorsu.edu.ph/)
-- 💻 Currently working on **Java projects**
+- 💻 Currently working on **Java projects** and **kotlin projects**
 - 🆎 Understand **English** and **Filipino**
 ***
 <h3> 🧰 Languages and Tools</h3>
